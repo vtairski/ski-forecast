@@ -654,6 +654,11 @@ negotiator@0.6.2:
   resolved "http://build-artifactory.eng.vmware.com/api/npm/npm/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
   integrity sha1-/qz3zPUlp3rpY0Q2pkiD/+yjRvs=
 
+node-fetch@^2.6.0:
+  version "2.6.0"
+  resolved "http://build-artifactory.eng.vmware.com/api/npm/npm/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
+  integrity sha1-5jNFY4bUqlWGP2dqerDaqP3ssP0=
+
 nodemon@^2.0.1:
   version "2.0.1"
   resolved "http://build-artifactory.eng.vmware.com/api/npm/npm/nodemon/-/nodemon-2.0.1.tgz#cec436f8153ad5d3e6c27c304849a06cabea71cc"
